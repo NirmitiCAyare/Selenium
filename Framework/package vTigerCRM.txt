@@ -1,0 +1,21 @@
+package vTigerCRM
+
+public class Contact
+{
+
+@Test
+
+public void ContactTest()
+{
+
+WebDriver driver=new ChromeDriver();
+
+wutil.maximize(driver);
+
+wutil.implicitwait(driver);
+
+String url=putil.getDataFromPropertyFile("Url");
+String FIRSTNAME=putil.getDataFromPropertyFile("firstname");
+String LASTNAME=putil.getDataFromPropertyFile("lastname");
+
+String CNTNAME=eutil.getDataFromExcel("Contacts");

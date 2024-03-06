@@ -1,0 +1,27 @@
+1)Prepare propertyfile
+2)Add propertyfile to-----src/test/resource
+3)Create a package(vTigerCRM)----src/test/java
+4)Create a class Organization
+
+
+5)Click on organizations
+6)click on Create organizations..(+)
+7)enter the organization name(company name)
+8)Assigned to---click on group(radio button)
+9)dropdown select support group
+10)Clcik on save button
+
+
+
+
+5)Click on contacts
+6)click on Create contacts..(+)
+7)enter the first name
+8)enter the last name
+9)Assigned to---click on group(radio button)
+10)Select TeamSelling(dropdown)
+11)Enter the organization name
+Step1:Click om +-------Prent window
+Step2:Enter Organization name----Child window
+Step3:Click on serach now button----Child window
+Step4:Click Organization name------Child Window
